@@ -1,0 +1,9 @@
+Department	Category	Oct	Nov	Dec
+Meat	Beef	"90,000"	"110,000"	"120,000"
+Bakery	Desserts	"25,000"	"80,000"	"120,000"
+Produce	Fruit	"10,000"	"30,000"	"40,000"
+Produce	Veggies	"30,000"	"80,000"	"30,000"
+Deli	Salads	"90,000"	"35,000"	"25,000"
+Meat	Chicken	"75,000"	"82,000"	"2,000,000"
+Bakery	Breads	"30,000"	"15,000"	"20,000"
+Deli	Sandwiches	"80,000"	"40,000"	"20,000"
